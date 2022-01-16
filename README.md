@@ -11,6 +11,9 @@
     + [머신 러닝 워크플로우(Machine Learning Workflow)](https://github.com/p-chanmin/TIL/blob/main/NLP/01-02.%20%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D%20%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0.md)
   + [텍스트 전처리(Text preprocessing)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-00.%20%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%A0%84%EC%B2%98%EB%A6%AC(Text%20preprocessing).md)
     + [토큰화(Tokenization)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-01.%20%ED%86%A0%ED%81%B0%ED%99%94(Tokenization).md)
+    + [정제(Cleaning) and 정규화(Normalization)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-02.%20%EC%A0%95%EC%A0%9C(Cleaning)%20and%20%EC%A0%95%EA%B7%9C%ED%99%94(Normalization).md)
+    + [어간 추출(Stemming) and 표제어 추출(Lemmatization)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-03.%20%EC%96%B4%EA%B0%84%20%EC%B6%94%EC%B6%9C(Stemming)%20and%20%ED%91%9C%EC%A0%9C%EC%96%B4%20%EC%B6%94%EC%B6%9C(Lemmatization).md)
+    + [불용어(Stopword)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-04.%20%EB%B6%88%EC%9A%A9%EC%96%B4(Stopword).md)
   + 언어 모델(Language Model)
   + 카운트 기반의 단어 표현(Count based word Representation)
 
