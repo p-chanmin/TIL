@@ -16,6 +16,10 @@
     + [불용어(Stopword)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-04.%20%EB%B6%88%EC%9A%A9%EC%96%B4(Stopword).md)
     + [정규 표현식(Regular Expression)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-05.%20%EC%A0%95%EA%B7%9C%20%ED%91%9C%ED%98%84%EC%8B%9D(Regular%20Expression).md)
     + [정수 인코딩(Integer Encoding)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-06.%20%EC%A0%95%EC%88%98%20%EC%9D%B8%EC%BD%94%EB%94%A9(Integer%20Encoding).md)
+    + [패딩(Padding)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-07.%20%ED%8C%A8%EB%94%A9(Padding).md)
+    + [원-핫 인코딩(One-Hot Encoding)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-08.%20%EC%9B%90-%ED%95%AB%20%EC%9D%B8%EC%BD%94%EB%94%A9(One-Hot%20Encoding).md)
+    + [데이터의 분리(Splitting Data)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-09.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EB%B6%84%EB%A6%AC(Splitting%20Data).md)
+    + [한국어 전처리 패키지(Text Preprocessing Tools for Korean Text)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-10.%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%ED%8C%A8%ED%82%A4%EC%A7%80(Text%20Preprocessing%20Tools%20for%20Korean%20Text).md)
   + 언어 모델(Language Model)
   + 카운트 기반의 단어 표현(Count based word Representation)
 
