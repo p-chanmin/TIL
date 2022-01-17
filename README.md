@@ -20,6 +20,11 @@
     + [원-핫 인코딩(One-Hot Encoding)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-08.%20%EC%9B%90-%ED%95%AB%20%EC%9D%B8%EC%BD%94%EB%94%A9(One-Hot%20Encoding).md)
     + [데이터의 분리(Splitting Data)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-09.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EB%B6%84%EB%A6%AC(Splitting%20Data).md)
     + [한국어 전처리 패키지(Text Preprocessing Tools for Korean Text)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-10.%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%A0%84%EC%B2%98%EB%A6%AC%20%ED%8C%A8%ED%82%A4%EC%A7%80(Text%20Preprocessing%20Tools%20for%20Korean%20Text).md)
-  + 언어 모델(Language Model)
+  + [언어 모델(Language Model)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-00.%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(Language%20Model).md)
+    * [언어 모델(Language Model)이란](https://github.com/p-chanmin/TIL/blob/main/NLP/03-01.%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(Language%20Model)%EC%9D%B4%EB%9E%80.md)
+    * [통계적 언어 모델(Statistical Language Model, SLM)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-02.%20%ED%86%B5%EA%B3%84%EC%A0%81%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(Statistical%20Language%20Model%2C%20SLM).md)
+    * [N-gram 언어 모델(N-gram Language Model)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-03.%20N-gram%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(N-gram%20Language%20Model).md)
+    * [한국어에서의 언어 모델(Language Model for Korean Sentences)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-04.%20%ED%95%9C%EA%B5%AD%EC%96%B4%EC%97%90%EC%84%9C%EC%9D%98%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(Language%20Model%20for%20Korean%20Sentences).md)
+    * [펄플렉서티(Perplexity, PPL)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-05.%20%ED%8E%84%ED%94%8C%EB%A0%89%EC%84%9C%ED%8B%B0(Perplexity%2C%20PPL).md)
   + 카운트 기반의 단어 표현(Count based word Representation)
 
