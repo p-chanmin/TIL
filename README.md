@@ -1,9 +1,9 @@
 # Today I Learned.
-목차
+### 목차
 
 ---
 
-> NLP
+> #### NLP
 
 + 딥 러닝을 이용한 자연어 처리 입문
 
@@ -14,6 +14,8 @@
     + [정제(Cleaning) and 정규화(Normalization)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-02.%20%EC%A0%95%EC%A0%9C(Cleaning)%20and%20%EC%A0%95%EA%B7%9C%ED%99%94(Normalization).md)
     + [어간 추출(Stemming) and 표제어 추출(Lemmatization)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-03.%20%EC%96%B4%EA%B0%84%20%EC%B6%94%EC%B6%9C(Stemming)%20and%20%ED%91%9C%EC%A0%9C%EC%96%B4%20%EC%B6%94%EC%B6%9C(Lemmatization).md)
     + [불용어(Stopword)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-04.%20%EB%B6%88%EC%9A%A9%EC%96%B4(Stopword).md)
+    + [정규 표현식(Regular Expression)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-05. 정규 표현식(Regular Expression).md)
+    + [정수 인코딩(Integer Encoding)](https://github.com/p-chanmin/TIL/blob/main/NLP/02-06. 정수 인코딩(Integer Encoding).md)
   + 언어 모델(Language Model)
   + 카운트 기반의 단어 표현(Count based word Representation)
 
