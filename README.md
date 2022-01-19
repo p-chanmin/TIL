@@ -28,4 +28,12 @@
     * [펄플렉서티(Perplexity, PPL)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-05.%20%ED%8E%84%ED%94%8C%EB%A0%89%EC%84%9C%ED%8B%B0(Perplexity%2C%20PPL).md)
   + [카운트 기반의 단어 표현(Count based word Representation)](https://github.com/p-chanmin/TIL/blob/main/NLP/04-00.%20%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%8B%A8%EC%96%B4%20%ED%91%9C%ED%98%84(Count%20based%20word%20Representation).md)
     * 다양한 단어의 표현 방법
+    * 
 
+
+
+> **Django**
+
+* 점프 투 장고
+  * [장고 개발 준비](https://github.com/p-chanmin/TIL/blob/main/Django/1-00.%20%EC%9E%A5%EA%B3%A0%20%EA%B0%9C%EB%B0%9C%20%EC%A4%80%EB%B9%84.md)
+  * 
