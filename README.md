@@ -26,5 +26,6 @@
     * [N-gram 언어 모델(N-gram Language Model)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-03.%20N-gram%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(N-gram%20Language%20Model).md)
     * [한국어에서의 언어 모델(Language Model for Korean Sentences)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-04.%20%ED%95%9C%EA%B5%AD%EC%96%B4%EC%97%90%EC%84%9C%EC%9D%98%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(Language%20Model%20for%20Korean%20Sentences).md)
     * [펄플렉서티(Perplexity, PPL)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-05.%20%ED%8E%84%ED%94%8C%EB%A0%89%EC%84%9C%ED%8B%B0(Perplexity%2C%20PPL).md)
-  + 카운트 기반의 단어 표현(Count based word Representation)
+  + [카운트 기반의 단어 표현(Count based word Representation)](https://github.com/p-chanmin/TIL/blob/main/NLP/04-00.%20%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%8B%A8%EC%96%B4%20%ED%91%9C%ED%98%84(Count%20based%20word%20Representation).md)
+    * 다양한 단어의 표현 방법
 
