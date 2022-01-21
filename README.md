@@ -27,8 +27,24 @@
     * [한국어에서의 언어 모델(Language Model for Korean Sentences)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-04.%20%ED%95%9C%EA%B5%AD%EC%96%B4%EC%97%90%EC%84%9C%EC%9D%98%20%EC%96%B8%EC%96%B4%20%EB%AA%A8%EB%8D%B8(Language%20Model%20for%20Korean%20Sentences).md)
     * [펄플렉서티(Perplexity, PPL)](https://github.com/p-chanmin/TIL/blob/main/NLP/03-05.%20%ED%8E%84%ED%94%8C%EB%A0%89%EC%84%9C%ED%8B%B0(Perplexity%2C%20PPL).md)
   + [카운트 기반의 단어 표현(Count based word Representation)](https://github.com/p-chanmin/TIL/blob/main/NLP/04-00.%20%EC%B9%B4%EC%9A%B4%ED%8A%B8%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%8B%A8%EC%96%B4%20%ED%91%9C%ED%98%84(Count%20based%20word%20Representation).md)
-    * 다양한 단어의 표현 방법
-    * 
+    * [다양한 단어의 표현 방법](https://github.com/p-chanmin/TIL/blob/main/NLP/04-01.%20%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%8B%A8%EC%96%B4%EC%9D%98%20%ED%91%9C%ED%98%84%20%EB%B0%A9%EB%B2%95.md)
+    * [Bag of Words(BoW)](https://github.com/p-chanmin/TIL/blob/main/NLP/04-02.%20Bag%20of%20Words(BoW).md)
+    * [문서 단어 행렬(Document-Term Matrix, DTM)](https://github.com/p-chanmin/TIL/blob/main/NLP/04-03.%20%EB%AC%B8%EC%84%9C%20%EB%8B%A8%EC%96%B4%20%ED%96%89%EB%A0%AC(Document-Term%20Matrix%2C%20DTM).md)
+    * [TF-IDF(Term Frequency-Inverse Document Frequency)](https://github.com/p-chanmin/TIL/blob/main/NLP/04-04.%20TF-IDF(Term%20Frequency-Inverse%20Document%20Frequency).md)
+  + 벡터의 유사도(Vector Similarity)
+    * 코사인 유사도(Cosine Similarity)
+    * 여러가지 유사도 기법
+  + 머신 러닝(Machine Learning) 개요
+    * 머신 러닝이란(What is Machine Learning?)
+    * 머신 러닝 훑어보기
+    * 선형 회귀(Linear Regression)
+    * 자동 미분과 선형 회귀 실습
+    * 로지스틱 회귀(Logistic Regression)
+    * 로지스틱 회귀 실습
+    * 다중 입력에 대한 실습
+    * 벡터와 행렬 연산
+    * 소프트맥스 회귀(Softmax Regression)
+    * 소프트맥스 회귀 실습
 
 
 
