@@ -31,9 +31,9 @@
     * [Bag of Words(BoW)](https://github.com/p-chanmin/TIL/blob/main/NLP/04-02.%20Bag%20of%20Words(BoW).md)
     * [문서 단어 행렬(Document-Term Matrix, DTM)](https://github.com/p-chanmin/TIL/blob/main/NLP/04-03.%20%EB%AC%B8%EC%84%9C%20%EB%8B%A8%EC%96%B4%20%ED%96%89%EB%A0%AC(Document-Term%20Matrix%2C%20DTM).md)
     * [TF-IDF(Term Frequency-Inverse Document Frequency)](https://github.com/p-chanmin/TIL/blob/main/NLP/04-04.%20TF-IDF(Term%20Frequency-Inverse%20Document%20Frequency).md)
-  + 벡터의 유사도(Vector Similarity)
-    * 코사인 유사도(Cosine Similarity)
-    * 여러가지 유사도 기법
+  + [벡터의 유사도(Vector Similarity)](https://github.com/p-chanmin/TIL/blob/main/NLP/05-00.%20%EB%B2%A1%ED%84%B0%EC%9D%98%20%EC%9C%A0%EC%82%AC%EB%8F%84(Vector%20Similarity).md)
+    * [코사인 유사도(Cosine Similarity)](https://github.com/p-chanmin/TIL/blob/main/NLP/05-01.%20%EC%BD%94%EC%82%AC%EC%9D%B8%20%EC%9C%A0%EC%82%AC%EB%8F%84(Cosine%20Similarity).md)
+    * [여러가지 유사도 기법](https://github.com/p-chanmin/TIL/blob/main/NLP/05-02.%20%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80%20%EC%9C%A0%EC%82%AC%EB%8F%84%20%EA%B8%B0%EB%B2%95.md)
   + 머신 러닝(Machine Learning) 개요
     * 머신 러닝이란(What is Machine Learning?)
     * 머신 러닝 훑어보기
@@ -53,3 +53,9 @@
 * 점프 투 장고
   * [장고 개발 준비](https://github.com/p-chanmin/TIL/blob/main/Django/1-00.%20%EC%9E%A5%EA%B3%A0%20%EA%B0%9C%EB%B0%9C%20%EC%A4%80%EB%B9%84.md)
   * 
+
+
+
+> **GitHub**
+
+* [GitHub Markdown 수식 첨부용 사이트](https://latex.codecogs.com/)
