@@ -38,9 +38,9 @@
     * [머신 러닝이란(What is Machine Learning?)](https://github.com/p-chanmin/TIL/blob/main/NLP/06-01.%20%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80(What%20is%20Machine%20Learning).md)
     * [머신 러닝 훑어보기](https://github.com/p-chanmin/TIL/blob/main/NLP/06-02.%20%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D%20%ED%9B%91%EC%96%B4%EB%B3%B4%EA%B8%B0.md)
     * [선형 회귀(Linear Regression)](https://github.com/p-chanmin/TIL/blob/main/NLP/06-03.%20%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80(Linear%20Regression).md)
-    * 자동 미분과 선형 회귀 실습
-    * 로지스틱 회귀(Logistic Regression)
-    * 로지스틱 회귀 실습
+    * [자동 미분과 선형 회귀 실습](https://github.com/p-chanmin/TIL/blob/main/NLP/06-04.%20%EC%9E%90%EB%8F%99%20%EB%AF%B8%EB%B6%84%EA%B3%BC%20%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80%20%EC%8B%A4%EC%8A%B5.md)
+    * [로지스틱 회귀(Logistic Regression)](https://github.com/p-chanmin/TIL/blob/main/NLP/06-05.%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80(Logistic%20Regression).md)
+    * [로지스틱 회귀 실습](https://github.com/p-chanmin/TIL/blob/main/NLP/06-06.%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8C%EA%B7%80%20%EC%8B%A4%EC%8A%B5.md)
     * 다중 입력에 대한 실습
     * 벡터와 행렬 연산
     * 소프트맥스 회귀(Softmax Regression)
