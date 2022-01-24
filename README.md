@@ -47,6 +47,9 @@
     * [소프트맥스 회귀 실습](https://github.com/p-chanmin/TIL/blob/main/NLP/06-10.%20%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4%20%ED%9A%8C%EA%B7%80%20%EC%8B%A4%EC%8A%B5.md)
   + 딥 러닝(Deep Learning) 개요
     * 퍼셉트론(Perceptron)
+    * 인공 신경망(Artificial Neural Network) 훑어보기
+    * 행렬곱으로 이해하는 신경망
+    * 딥 러닝의 학습 방법
 
 
 
