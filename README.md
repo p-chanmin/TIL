@@ -49,7 +49,7 @@
     * 퍼셉트론(Perceptron)
     * 인공 신경망(Artificial Neural Network) 훑어보기
     * 행렬곱으로 이해하는 신경망
-    * 딥 러닝의 학습 방법
+    * 딥 러닝의 학습 방법 
 
 
 
