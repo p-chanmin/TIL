@@ -49,7 +49,23 @@
     * 퍼셉트론(Perceptron)
     * 인공 신경망(Artificial Neural Network) 훑어보기
     * 행렬곱으로 이해하는 신경망
-    * 딥 러닝의 학습 방법 
+    * 딥 러닝의 학습 방법
+    * 역전파(BackPropagation) 이해하기
+    * 과적합(Overfitting)을 막는 방법들
+    * 기울기 소실(Gradient Vanishing)과 폭주(Exploding)
+    * 케라스(Keras) 훑어보기
+    * 케라스의 함수형 API(Keras Functional API)
+    * 케라스 서브클래싱 API(Keras Subclassing API)
+    * 다층 퍼셉트론(MultiLayer Perceptron, MLP)으로 텍스트 분류하기
+    * 피드 포워드 신경망 언어 모델(Neural Network Language Model, NNLM)
+  + 순환 신경망(Recurrent Neural Network)
+    * 순환 신경망(Recurrent Neural Network, RNN)
+    * 장단기 메모리(Long Short-Term Memory, LSTM)
+    * 게이트 순환 유닛(Gated Recurrent Unit, GRU)
+    * 케라스의 SimpleRNN과 LSTM 이해하기
+    * RNN 언어 모델(Recurrent Neural Network Language Model, RNNLM)
+    * RNN을 이용한 텍스트 생성(Text Generation using RNN)
+    * 문자 단위 RNN(Char RNN)
 
 
 
@@ -57,7 +73,7 @@
 
 * 점프 투 장고
   * [장고 개발 준비](https://github.com/p-chanmin/TIL/blob/main/Django/1-00.%20%EC%9E%A5%EA%B3%A0%20%EA%B0%9C%EB%B0%9C%20%EC%A4%80%EB%B9%84.md)
-  * 
+  * 장고의 기본 요소
 
 
 
