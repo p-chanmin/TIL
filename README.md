@@ -65,7 +65,7 @@
     * 케라스의 SimpleRNN과 LSTM 이해하기
     * RNN 언어 모델(Recurrent Neural Network Language Model, RNNLM)
     * RNN을 이용한 텍스트 생성(Text Generation using RNN)
-    * 문자 단위 RNN(Char RNN)
+    * 문자 단위 RNN(Char RNN) 
 
 
 
