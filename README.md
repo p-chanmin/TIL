@@ -78,7 +78,7 @@
     * [모델](https://github.com/p-chanmin/TIL/blob/main/Django/2-02.%20%EB%AA%A8%EB%8D%B8.md)
     * 장고 관리자
     * 조회 템플릿
-    * URL과 네임스페이스
+    * URL과 네임스페이스 
 
 
 
