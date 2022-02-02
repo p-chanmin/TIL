@@ -76,7 +76,7 @@
   * 장고의 기본 요소
     * [URL과 뷰](https://github.com/p-chanmin/TIL/blob/main/Django/2-01.%20URL%EA%B3%BC%20%EB%B7%B0.md)
     * [모델](https://github.com/p-chanmin/TIL/blob/main/Django/2-02.%20%EB%AA%A8%EB%8D%B8.md)
-    * 장고 관리자
+    * [장고 관리자](https://github.com/p-chanmin/TIL/blob/main/Django/2-03.%20%EC%9E%A5%EA%B3%A0%20%EA%B4%80%EB%A6%AC%EC%9E%90.md)
     * 조회 템플릿
     * URL과 네임스페이스 
 
