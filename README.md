@@ -77,8 +77,13 @@
     * [URL과 뷰](https://github.com/p-chanmin/TIL/blob/main/Django/2-01.%20URL%EA%B3%BC%20%EB%B7%B0.md)
     * [모델](https://github.com/p-chanmin/TIL/blob/main/Django/2-02.%20%EB%AA%A8%EB%8D%B8.md)
     * [장고 관리자](https://github.com/p-chanmin/TIL/blob/main/Django/2-03.%20%EC%9E%A5%EA%B3%A0%20%EA%B4%80%EB%A6%AC%EC%9E%90.md)
-    * 조회 템플릿
-    * URL과 네임스페이스 
+    * [조회 템플릿](https://github.com/p-chanmin/TIL/blob/main/Django/2-04.%20%EC%A1%B0%ED%9A%8C%EC%99%80%20%ED%85%9C%ED%94%8C%EB%A6%BF.md)
+    * [URL과 네임스페이스](https://github.com/p-chanmin/TIL/blob/main/Django/2-05.%20URL%EA%B3%BC%20%EB%84%A4%EC%9E%84%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.md)
+    * [데이터 저장](https://github.com/p-chanmin/TIL/blob/main/Django/2-06.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%80%EC%9E%A5.md)
+    * 스태틱
+    * 부트스트랩
+    * 템플릿 상속
+    * 폼
 
 
 
