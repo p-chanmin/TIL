@@ -19,7 +19,7 @@
 > **Algorithm**
 
 * baekjoon
-* [LeetCode](https://github.com/p-chanmin/TIL/tree/main/Django#%EC%A0%90%ED%94%84-%ED%88%AC-%EC%9E%A5%EA%B3%A0)
+* [LeetCode](https://github.com/p-chanmin/TIL/tree/main/Algorithm/LeetCode#leetcode-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
 
 
 
