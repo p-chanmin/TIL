@@ -5,7 +5,7 @@
 
 > #### NLP
 
-+ 딥 러닝을 이용한 자연어 처리 입문
++ [딥 러닝을 이용한 자연어 처리 입문](https://github.com/p-chanmin/TIL/tree/main/NLP#%EB%94%A5-%EB%9F%AC%EB%8B%9D%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-%EC%9E%85%EB%AC%B8)
 
 
 
