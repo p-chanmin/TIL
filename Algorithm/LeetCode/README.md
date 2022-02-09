@@ -5,12 +5,12 @@
 > **파이썬 알고리즘 인터뷰**
 
 * **문자열 조작**
-  * 125.Valid Palindrome
-  * 344.Reverse String
-  * 937.Reorder Data in Log Files
-  * 819.Most Common Word
-  * 49.Group Anagrams
-  * 5.Longest Palindromic Substring
+  * [125.Valid Palindrome](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20125.Valid%20Palindrome.md)
+  * [344.Reverse String](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20344.Reverse%20String.md)
+  * [937.Reorder Data in Log Files](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20937.Reorder%20Data%20in%20Log%20Files.md)
+  * [819.Most Common Word](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20819.Most%20Common%20Word.md)
+  * [49.Group Anagrams](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%2049.Group%20Anagrams.md)
+  * [5.Longest Palindromic Substring](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%205.Longest%20Palindromic%20Substring.md)
 * **배열**
   * 1.Two Sum
   * 42.Trapping Rain Water
