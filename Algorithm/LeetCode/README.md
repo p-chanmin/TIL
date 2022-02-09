@@ -27,8 +27,8 @@
   * [328.Odd Even Linked List](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20328.Odd%20Even%20Linked%20List.md)
   * [92.Reverse Linked List II](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%2092.Reverse%20Linked%20List%20II.md)
 * **스택, 큐**
-  * 20.Valid Parentheses
-  *  316.Remove Duplicate Letters
-  * 739.Daily Temperatures
-  * 225.Implement Stack using Queues
-  * 232.Implement Queue using Stacks
+  * [20.Valid Parentheses](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%2020.Valid%20Parentheses.md)
+  * [316.Remove Duplicate Letters](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20316.Remove%20Duplicate%20Letters.md)
+  * [739.Daily Temperatures](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20739.Daily%20Temperatures.md)
+  * [225.Implement Stack using Queues](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20225.Implement%20Stack%20using%20Queues.md)
+  * [232.Implement Queue using Stacks](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20232.Implement%20Queue%20using%20Stacks.md)
