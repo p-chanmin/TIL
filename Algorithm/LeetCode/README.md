@@ -12,12 +12,12 @@
   * [49.Group Anagrams](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%2049.Group%20Anagrams.md)
   * [5.Longest Palindromic Substring](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%205.Longest%20Palindromic%20Substring.md)
 * **배열**
-  * 1.Two Sum
-  * 42.Trapping Rain Water
-  * 15.3Sum
-  * 561.Array Partition I
-  * 238.Product of Array Except Self
-  * 121.Best Time to Buy and Sell Stock
+  * [1.Two Sum](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%201.Two%20Sum.md)
+  * [42.Trapping Rain Water](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%2042.Trapping%20Rain%20Water.md)
+  * [15.3Sum](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%2015.3Sum.md)
+  * [561.Array Partition I](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20561.Array%20Partition%20I.md)
+  * [238.Product of Array Except Self](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20238.Product%20of%20Array%20Except%20Self.md)
+  * [121.Best Time to Buy and Sell Stock](https://github.com/p-chanmin/TIL/blob/main/Algorithm/LeetCode/LeetCode%20121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 * **연결 리스트**
   * 234.Palindrome Linked List
   * 21.Merge Two Sorted Lists
