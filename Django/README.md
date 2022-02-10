@@ -17,4 +17,13 @@
   - [템플릿 상속](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/2-09.%20%ED%85%9C%ED%94%8C%EB%A6%BF%20%EC%83%81%EC%86%8D.md)
   - [폼](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/2-10.%20%ED%8F%BC.md)
 - 파이보 서비스 개발
-  - 내비게이션바
+  - [내비게이션바](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-01.%20%EB%82%B4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98%EB%B0%94.md)
+  - [페이징](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-02.%20%ED%8E%98%EC%9D%B4%EC%A7%95.md)
+  - 템플릿 필터
+  - 답변 개수 표시
+  - 로그인과 로그아웃
+  - 계정생성
+  - 모델 변경
+  - 글쓴이 표시
+  - 수정과 삭제
+  - 댓글
