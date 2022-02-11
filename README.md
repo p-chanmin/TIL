@@ -16,7 +16,7 @@
 
 
 
-> **Algorithm**
+> **Algorithm** 
 
 * baekjoon
 * [LeetCode](https://github.com/p-chanmin/TIL/tree/main/Algorithm/LeetCode#leetcode-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
