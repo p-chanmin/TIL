@@ -23,7 +23,7 @@
   - [답변 개수 표시](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-04.%20%EB%8B%B5%EB%B3%80%20%EA%B0%9C%EC%88%98%20%ED%91%9C%EC%8B%9C.md)
   - [로그인과 로그아웃](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-05.%20%EB%A1%9C%EA%B7%B8%EC%9D%B8%EA%B3%BC%20%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83.md)
   - [계정생성](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-06.%20%EA%B3%84%EC%A0%95%EC%83%9D%EC%84%B1.md)
-  - 모델 변경
-  - 글쓴이 표시
+  - [모델 변경](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-07.%20%EB%AA%A8%EB%8D%B8%20%EB%B3%80%EA%B2%BD.md)
+  - [글쓴이 표시](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-08.%20%EA%B8%80%EC%93%B4%EC%9D%B4%20%ED%91%9C%EC%8B%9C.md)
   - 수정과 삭제
   - 댓글
