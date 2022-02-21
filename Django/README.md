@@ -26,4 +26,11 @@
   - [모델 변경](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-07.%20%EB%AA%A8%EB%8D%B8%20%EB%B3%80%EA%B2%BD.md)
   - [글쓴이 표시](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-08.%20%EA%B8%80%EC%93%B4%EC%9D%B4%20%ED%91%9C%EC%8B%9C.md)
   - [수정과 삭제](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-09.%20%EC%88%98%EC%A0%95%EA%B3%BC%20%EC%82%AD%EC%A0%9C.md)
-  - 댓글
+  - [댓글](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-10.%20%EB%8C%93%EA%B8%80.md)
+  - [views.py 파일 분리](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-11.%20views.py%20%ED%8C%8C%EC%9D%BC%20%EB%B6%84%EB%A6%AC.md)
+  - 추천
+  - 앵커
+  - 마크다운
+  - 검색과 정렬
+  - 파이보 추가 기능
+- 세상에 선보이는 파이보 서비스
