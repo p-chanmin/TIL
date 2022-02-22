@@ -28,9 +28,9 @@
   - [수정과 삭제](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-09.%20%EC%88%98%EC%A0%95%EA%B3%BC%20%EC%82%AD%EC%A0%9C.md)
   - [댓글](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-10.%20%EB%8C%93%EA%B8%80.md)
   - [views.py 파일 분리](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-11.%20views.py%20%ED%8C%8C%EC%9D%BC%20%EB%B6%84%EB%A6%AC.md)
-  - 추천
-  - 앵커
-  - 마크다운
+  - [추천](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-12.%20%EC%B6%94%EC%B2%9C.md)
+  - [앵커](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-13.%20%EC%95%B5%EC%BB%A4.md)
+  - [마크다운](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-14.%20%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md)
   - 검색과 정렬
   - 파이보 추가 기능
 - 세상에 선보이는 파이보 서비스
