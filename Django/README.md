@@ -32,5 +32,5 @@
   - [앵커](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-13.%20%EC%95%B5%EC%BB%A4.md)
   - [마크다운](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-14.%20%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4.md)
   - [검색과 정렬](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/3-15.%20%EA%B2%80%EC%83%89%EA%B3%BC%20%EC%A0%95%EB%A0%AC.md)
-  - 파이보 추가 기능
 - 세상에 선보이는 파이보 서비스
+  * [서버](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/4-01.%20%EC%84%9C%EB%B2%84.md)
