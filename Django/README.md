@@ -35,4 +35,5 @@
 - 세상에 선보이는 파이보 서비스
   * [서버](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/4-01.%20%EC%84%9C%EB%B2%84.md)
   * [파이보 오픈](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/4-02.%20%ED%8C%8C%EC%9D%B4%EB%B3%B4%20%EC%98%A4%ED%94%88.md)
+  * [settings.py 분리](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/4-03.%20settings.py%20%EB%B6%84%EB%A6%AC.md)
   * 
