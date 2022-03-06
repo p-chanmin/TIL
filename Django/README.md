@@ -2,7 +2,7 @@
 
 
 
-### 점프 투 장고
+> **점프 투 장고**
 
 - [장고 개발 준비](https://github.com/p-chanmin/TIL/blob/main/Django/%EC%A0%90%ED%94%84%20%ED%88%AC%20%EC%9E%A5%EA%B3%A0/1-00.%20%EC%9E%A5%EA%B3%A0%20%EA%B0%9C%EB%B0%9C%20%EC%A4%80%EB%B9%84.md)
 - 장고의 기본 요소
