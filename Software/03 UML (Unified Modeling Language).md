@@ -14,7 +14,7 @@
 
 ## 클래스 ( class )
 
-클래스 다이어그램은 정적 다이어그램으로 클래스의 구성요소 및 클래스간의 관계를 표한하는 대표적인 UML
+클래스 다이어그램은 정적 다이어그램으로 클래스의 구성요소 및 클래스간의 관계를 표현하는 대표적인 UML
 
 
 
@@ -420,7 +420,23 @@
 
 
 
+### 구성요소
 
+* 노드
+
+  처리 능력을 가진 장치, 직육면체, 속성을 가짐.
+
+  노드이름<<스테레오타입>>, 노트 특성, 오퍼레이션 영역
+
+ 
+
+* 커넥션
+
+  배치 다이어그램에서 노드 사이를 연결, 해당 노드들의 통신 방식
+
+
+
+### 예시
 
 
 
@@ -436,10 +452,10 @@
 >
 > https://itwiki.kr/w/%EC%8B%9C%ED%80%80%EC%8A%A4_%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8
 >
-> https://codedragon.tistory.com/4125  활동 다이어그램 예시
+> https://codedragon.tistory.com/4125  활동 다이어그램
 >
-> https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hoi5man&logNo=60129764500 상태 다이어그램 예시
+> https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hoi5man&logNo=60129764500 상태 다이어그램
 >
 > https://1000yun.tistory.com/8 컴포넌트 다이어그램 
 >
-> 
+> https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kimbh666&logNo=221559241414  배치 다이어그램
